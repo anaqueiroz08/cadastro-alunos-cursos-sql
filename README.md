@@ -91,8 +91,6 @@ SELECT AVG(idade) AS media_idade FROM Alunos;
 
 ## 👩‍💻 Autora
 
-****Ana Caroline Santos Queiroz** · [GitHub](https://github.com/anaqueiroz08) · [LinkedIn](https://www.linkedin.com/in/anaqueiroz04/)** · [GitHub](https://github.com/anaqueiroz08) · [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN/)
-
-## 📄 Licença
+****Ana Caroline Santos Queiroz** · [GitHub](https://github.com/anaqueiroz08) · [LinkedIn](https://www.linkedin.com/in/anaqueiroz04/)** 
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE).

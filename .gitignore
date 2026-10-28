@@ -1,0 +1,31 @@
+# Dependências
+node_modules/
+.venv/
+venv/
+
+# Executáveis e arquivos compilados (C)
+*.exe
+*.o
+*.out
+bin/
+obj/
+
+# Credenciais e variáveis de ambiente
+.env
+.env.*
+!.env.example
+config.local.*
+
+# Dumps e backups de banco de dados
+*.dump
+*.bak
+
+# Logs
+*.log
+
+# Editores e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
